@@ -16,4 +16,4 @@
 
 ### 3. Front App:
 
-- A user-friendly App to consume the backend and predict the uploaded images usinf React + Typescript.
+- A user-friendly App to consume the backend and predict the uploaded images using React + Typescript.
