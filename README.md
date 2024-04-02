@@ -2,7 +2,7 @@
 - This is an ongoing research project within the AI Lab of KSU to process the prostate biopsy images and create a model to detect the ISUP grade of the Prostate tumor.
   
 ## Data:
-- [Kaggle](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/overview)  and other hospitals.
+- [Kaggle](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/overview)  and other hospitals data.
 
 ## Architecture
 
